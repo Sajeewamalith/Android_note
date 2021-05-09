@@ -1,0 +1,5 @@
+<root>
+    <item name='android.app.Activity boolean onOptionsItemSelected(android.view.MenuItem) 0'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
